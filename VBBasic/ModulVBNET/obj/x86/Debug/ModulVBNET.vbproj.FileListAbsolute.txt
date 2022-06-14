@@ -1,0 +1,10 @@
+C:\Users\Nadira\documents\visual studio 2010\Projects\ModulVBNET\ModulVBNET\bin\Debug\ModulVBNET.exe
+C:\Users\Nadira\documents\visual studio 2010\Projects\ModulVBNET\ModulVBNET\bin\Debug\ModulVBNET.pdb
+C:\Users\Nadira\documents\visual studio 2010\Projects\ModulVBNET\ModulVBNET\bin\Debug\ModulVBNET.xml
+C:\Users\Nadira\documents\visual studio 2010\Projects\ModulVBNET\ModulVBNET\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\Nadira\documents\visual studio 2010\Projects\ModulVBNET\ModulVBNET\obj\x86\Debug\WindowsApplication1.Form2.resources
+C:\Users\Nadira\documents\visual studio 2010\Projects\ModulVBNET\ModulVBNET\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Nadira\documents\visual studio 2010\Projects\ModulVBNET\ModulVBNET\obj\x86\Debug\ModulVBNET.vbproj.GenerateResource.Cache
+C:\Users\Nadira\documents\visual studio 2010\Projects\ModulVBNET\ModulVBNET\obj\x86\Debug\ModulVBNET.exe
+C:\Users\Nadira\documents\visual studio 2010\Projects\ModulVBNET\ModulVBNET\obj\x86\Debug\ModulVBNET.xml
+C:\Users\Nadira\documents\visual studio 2010\Projects\ModulVBNET\ModulVBNET\obj\x86\Debug\ModulVBNET.pdb

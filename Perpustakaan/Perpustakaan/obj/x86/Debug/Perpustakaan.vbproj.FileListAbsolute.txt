@@ -1,0 +1,9 @@
+C:\Users\Nadira\documents\visual studio 2010\Projects\Perpustakaan\Perpustakaan\bin\Debug\Perpustakaan.exe
+C:\Users\Nadira\documents\visual studio 2010\Projects\Perpustakaan\Perpustakaan\bin\Debug\Perpustakaan.pdb
+C:\Users\Nadira\documents\visual studio 2010\Projects\Perpustakaan\Perpustakaan\bin\Debug\Perpustakaan.xml
+C:\Users\Nadira\documents\visual studio 2010\Projects\Perpustakaan\Perpustakaan\obj\x86\Debug\WindowsApplication1.Perpustakaan.resources
+C:\Users\Nadira\documents\visual studio 2010\Projects\Perpustakaan\Perpustakaan\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Nadira\documents\visual studio 2010\Projects\Perpustakaan\Perpustakaan\obj\x86\Debug\Perpustakaan.vbproj.GenerateResource.Cache
+C:\Users\Nadira\documents\visual studio 2010\Projects\Perpustakaan\Perpustakaan\obj\x86\Debug\Perpustakaan.exe
+C:\Users\Nadira\documents\visual studio 2010\Projects\Perpustakaan\Perpustakaan\obj\x86\Debug\Perpustakaan.xml
+C:\Users\Nadira\documents\visual studio 2010\Projects\Perpustakaan\Perpustakaan\obj\x86\Debug\Perpustakaan.pdb

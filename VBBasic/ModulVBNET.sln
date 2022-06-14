@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Basic Express 2010
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "ModulVBNET", "ModulVBNET\ModulVBNET.vbproj", "{CCC9E995-481C-42FA-A8D2-01FC10812ED4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CCC9E995-481C-42FA-A8D2-01FC10812ED4}.Debug|x86.ActiveCfg = Debug|x86
+		{CCC9E995-481C-42FA-A8D2-01FC10812ED4}.Debug|x86.Build.0 = Debug|x86
+		{CCC9E995-481C-42FA-A8D2-01FC10812ED4}.Release|x86.ActiveCfg = Release|x86
+		{CCC9E995-481C-42FA-A8D2-01FC10812ED4}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
